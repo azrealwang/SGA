@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<reference>
+  <model id="ViT-L-14_TeCoA4" clean_acc="1.000000" robust_acc="0.304094" architecture="ViT-L-14" />
+  <model id="ConvNeXt-B_RCLIP-TeCoA" clean_acc="1.000000" robust_acc="0.243665" architecture="ConvNeXt-B" />
+  <model id="ViT-B-16_RCLIP-TeCoA" clean_acc="1.000000" robust_acc="0.179337" architecture="ViT-B-16" />
+  <model id="ConvNeXt-B_RCLIP-FARE" clean_acc="1.000000" robust_acc="0.148148" architecture="ConvNeXt-B" />
+  <model id="ViT-B-16_RCLIP-FARE" clean_acc="1.000000" robust_acc="0.083821" architecture="ViT-B-16" />
+  <model id="ViT-L-14_LEAF-CLIP" clean_acc="1.000000" robust_acc="0.035088" architecture="ViT-L-14" />
+  <model id="ViT-L-14_CLIP" clean_acc="1.000000" robust_acc="0.000000" architecture="ViT-L-14" />
+</reference>

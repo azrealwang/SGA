@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<reference>
+  <model id="ViT-L-14_FARE4" clean_acc="1.000000" robust_acc="0.911079" architecture="ViT-L-14" />
+  <model id="ViT-L-14_SimCLIP4" clean_acc="1.000000" robust_acc="0.895044" architecture="ViT-L-14" />
+  <model id="ViT-L-14_LEAF-CLIP" clean_acc="1.000000" robust_acc="0.873178" architecture="ViT-L-14" />
+  <model id="ViT-L-14_TeCoA4" clean_acc="1.000000" robust_acc="0.852770" architecture="ViT-L-14" />
+  <model id="ViT-L-14_CLIP" clean_acc="1.000000" robust_acc="0.575802" architecture="ViT-L-14" />
+</reference>

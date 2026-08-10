@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<reference>
+  <model id="Amini2024MeanSparse_Swin-L" clean_acc="1.000000" robust_acc="0.661972" architecture="MeanSparse Swin-L" />
+  <model id="Amini2024MeanSparse_ConvNeXt-L" clean_acc="1.000000" robust_acc="0.589984" architecture="MeanSparse ConvNeXt-L" />
+  <model id="Liu2023Comprehensive_Swin-B" clean_acc="1.000000" robust_acc="0.543036" architecture="Swin-B" />
+  <model id="Liu2023Comprehensive_ConvNeXt-B" clean_acc="1.000000" robust_acc="0.503912" architecture="ConvNeXt-B" />
+  <model id="Singh2023Revisiting_ViT-B-ConvStem" clean_acc="1.000000" robust_acc="0.469484" architecture="ViT-B + ConvStem" />
+  <model id="Singh2023Revisiting_ConvNeXt-S-ConvStem" clean_acc="1.000000" robust_acc="0.455399" architecture="ConvNeXt-S + ConvStem" />
+  <model id="Singh2023Revisiting_ViT-S-ConvStem" clean_acc="1.000000" robust_acc="0.403756" architecture="ViT-S + ConvStem" />
+  <model id="Debenedetti2022Light_XCiT-L12" clean_acc="1.000000" robust_acc="0.338028" architecture="XCiT-L12" />
+  <model id="Debenedetti2022Light_XCiT-M12" clean_acc="1.000000" robust_acc="0.298905" architecture="XCiT-M12" />
+  <model id="Salman2020Do_50_2" clean_acc="1.000000" robust_acc="0.280125" architecture="WideResNet-50-2" />
+  <model id="Debenedetti2022Light_XCiT-S12" clean_acc="1.000000" robust_acc="0.226917" architecture="XCiT-S12" />
+  <model id="Mo2022When_Swin-B" clean_acc="1.000000" robust_acc="0.187793" architecture="Swin-B" />
+  <model id="Engstrom2019Robustness" clean_acc="1.000000" robust_acc="0.186228" architecture="ResNet-50" />
+</reference>

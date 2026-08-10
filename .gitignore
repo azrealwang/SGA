@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+/LLaVA/
+/checkpoints/
+/models
+/raw/
+/results/
+/logs/

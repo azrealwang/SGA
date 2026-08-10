@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<reference>
+  <model id="Salman2020Do_50_2_L2_eps1.0" clean_acc="1.000000" robust_acc="0.752864" architecture="WideResNet-50-2" />
+  <model id="Salman2020Do_R50_L2_eps1.0" clean_acc="1.000000" robust_acc="0.711948" architecture="ResNet-50" />
+  <model id="Salman2020Do_R18_L2_eps1.0" clean_acc="1.000000" robust_acc="0.615385" architecture="ResNet-18" />
+  <model id="Salman2020Do_50_2_L2_eps0.5" clean_acc="1.000000" robust_acc="0.551555" architecture="WideResNet-50-2" />
+  <model id="Salman2020Do_R50_L2_eps0.5" clean_acc="1.000000" robust_acc="0.546645" architecture="ResNet-50" />
+  <model id="Salman2020Do_R18_L2_eps0.5" clean_acc="1.000000" robust_acc="0.414075" architecture="ResNet-18" />
+  <model id="Salman2020Do_50_2_L2_eps0.25" clean_acc="1.000000" robust_acc="0.284779" architecture="WideResNet-50-2" />
+  <model id="Salman2020Do_R50_L2_eps0.25" clean_acc="1.000000" robust_acc="0.248773" architecture="ResNet-50" />
+  <model id="Salman2020Do_R18_L2_eps0.25" clean_acc="1.000000" robust_acc="0.207856" architecture="ResNet-18" />
+  <model id="Salman2020Do_50_2_L2_eps0.1" clean_acc="1.000000" robust_acc="0.093290" architecture="WideResNet-50-2" />
+  <model id="Salman2020Do_R50_L2_eps0.1" clean_acc="1.000000" robust_acc="0.070376" architecture="ResNet-50" />
+  <model id="Salman2020Do_R18_L2_eps0.1" clean_acc="1.000000" robust_acc="0.044190" architecture="ResNet-18" />
+</reference>

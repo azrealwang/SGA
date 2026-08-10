@@ -1,0 +1,31 @@
+numpy>=1.23
+scipy>=1.9
+torch>=2.0
+torchvision>=0.15
+Pillow>=9.0
+timm>=0.9
+tqdm>=4.64
+dill>=0.3.6
+setuptools>=65,<82  # RobustBench needs pkg_resources (removed in setuptools 82+)
+
+# CLIP / VLM encoders
+open-clip-torch>=2.20
+
+# LLaVA-1.5 language interface and the HF conversion script.
+# Match the transformers major to your huggingface_hub major:
+#   hub 1.x -> transformers>=5.0
+#   hub 0.x -> transformers>=4.40,<5
+transformers>=5.0
+huggingface_hub>=0.20
+safetensors>=0.4
+accelerate>=0.25
+sentencepiece>=0.1.99
+protobuf>=3.20
+einops>=0.7
+pyyaml>=6.0
+
+# Not on PyPI — install from source in this order (see README Setup):
+#   1. LLaVA first (LVLM pool only):
+#        git clone https://github.com/haotian-liu/LLaVA.git && pip install -e LLaVA
+#   2. RobustBench last (after LLaVA) to avoid timm conflicts:
+#        pip install "robustbench @ git+https://github.com/RobustBench/robustbench.git"
